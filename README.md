@@ -18,11 +18,25 @@
 
 ## 📈 Goals
 
-- 🎯 Land a Data Analyst or AI Internship
-- 🎯 Build impactful AI and Data Analytics projects
-- 🎯 Strengthen my GitHub portfolio
-- 🎯 Keep learning and growing every day
+## 📈 Career Goals
 
+🎯 Secure a Data Analyst or Generative AI Engineer role at a leading global company.
+
+🌍 Build an international career and work on cutting-edge AI projects in countries such as the USA, Canada, Germany, or the UK.
+
+🤖 Become a skilled Generative AI Engineer with expertise in Large Language Models (LLMs), AI Agents, NLP, and RAG applications.
+
+🚀 Develop innovative AI-powered products that solve real-world problems and positively impact millions of people.
+
+📚 Continuously learn, earn industry-recognized certifications, and stay up to date with the latest AI technologies.
+
+💻 Build a strong portfolio of AI and Data Analytics projects on GitHub.
+
+🌟 Contribute to open-source AI projects and collaborate with developers worldwide.
+
+🎤 Share knowledge through technical content, mentoring, and public speaking to inspire aspiring AI professionals.
+
+🏆 Grow into a trusted AI expert and technology leader in the field of Generative AI.
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/kandula-yamini-929654379
